@@ -48,7 +48,7 @@ ionic serve
 
 * [Angular](https://angular.io/) - Framework Javascript
 
-* [ionic]([https://ngrx.io](https://ngrx.io/)) - Cross-platform hybrid API
+* [ionic](https://ionicframework.com/) - Cross-platform hybrid API
 
 * [NGRX](https://rometools.github.io/rome/) - State Management 
   
