@@ -3,6 +3,9 @@
 
 Projeto feito durante o curso **7189 - Criando Apps Web com Angular e Redux** que usa [NGRX](https://ngrx.io/) para gerenciamento de estado da aplicação.
 
+
+![App running](src/assets/7189.gif)
+
 ## Iniciando
 
 Foi usado durante o projeto o [Mockoon](https://mockoon.com/) para retornar uma lista mockada de produtos. Basta importador o aquivo **server.json** no Mockoon e API já estará funcionando.
